@@ -1,4 +1,4 @@
-package java.org.fpij.jitakyoei.model.dao;
+package main.java.org.fpij.jitakyoei.model.dao;
 
 import static org.junit.Assert.assertEquals;
 
