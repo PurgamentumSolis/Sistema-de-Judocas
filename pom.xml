@@ -16,7 +16,7 @@
     <repositories>
         <repository>
             <id>genesis-repo</id>
-            <url>C:/Users/will6/Downloads/FEI/Fei 8 semestre/Simulacao e teste de software/Projeto/Sistema-de-Judocas/lib/genesis</url>
+            <url>https://github.com/PurgamentumSolis/Sistema-de-Judocas/tree/master/lib/genesis</url>
         </repository>
     </repositories>
 
@@ -216,6 +216,7 @@
             <configuration>
                 <includes>
                     <include>**/*Test.java</include> <!-- Incluir apenas os testes -->
+                    <include>**/*Tests.java</include> <!-- Incluir apenas os testes -->
                 </includes>
             </configuration>
         </plugin>
