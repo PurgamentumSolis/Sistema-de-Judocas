@@ -1,15 +1,16 @@
-package org.fpij.jitakyoei.model;
+package java.org.fpij.jitakyoei.model;
 
 import java.util.Date;
 
-import org.fpij.jitakyoei.model.beans.Aluno;
-import org.fpij.jitakyoei.model.beans.Endereco;
-import org.fpij.jitakyoei.model.beans.Entidade;
-import org.fpij.jitakyoei.model.beans.Filiado;
-import org.fpij.jitakyoei.model.beans.Professor;
-import org.fpij.jitakyoei.model.beans.Rg;
-import org.fpij.jitakyoei.util.DatabaseManager;
 import org.junit.BeforeClass;
+
+import main.java.org.fpij.jitakyoei.model.beans.Aluno;
+import main.java.org.fpij.jitakyoei.model.beans.Endereco;
+import main.java.org.fpij.jitakyoei.model.beans.Entidade;
+import main.java.org.fpij.jitakyoei.model.beans.Filiado;
+import main.java.org.fpij.jitakyoei.model.beans.Professor;
+import main.java.org.fpij.jitakyoei.model.beans.Rg;
+import main.java.org.fpij.jitakyoei.util.DatabaseManager;
 
 public class ModelIntegrationTests {
 //	private static DAO<Aluno> alunoDao;
