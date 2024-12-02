@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: test.java.Model.ProfessorTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in test.java.Model.ProfessorTest
+test.java.Model.ProfessorTest.TesteCompararHashCode  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: Values should be different. Actual: 3535
+	at test.java.Model.ProfessorTest.TesteCompararHashCode(ProfessorTest.java:92)
+
