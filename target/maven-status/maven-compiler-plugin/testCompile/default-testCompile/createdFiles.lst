@@ -1,6 +1,6 @@
 test\java\Model\RgTest.class
-main\java\org\fpij\jitakyoei\model\beans\FiliadoTest.class
-main\java\org\fpij\jitakyoei\model\dao\AlunoDaoTest.class
+test\java\Model\FiliadoTest.class
+test\java\org\fpij\jitakyoei\model\dao\AlunoDaoTest.class
 main\java\org\fpij\jitakyoei\model\ModelIntegrationTests.class
 test\java\Model\ProfessorTest.class
 test\java\Model\EntidadeTest.class

@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
-Test set: test.java.Model.RgTest
+Test set: test.java.Model.FiliadoTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in test.java.Model.RgTest
+Tests run: 12, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.066 s - in test.java.Model.FiliadoTest

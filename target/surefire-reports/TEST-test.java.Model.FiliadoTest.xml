@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="main.java.org.fpij.jitakyoei.model.beans.FiliadoTest" time="0.06" tests="9" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="test.java.Model.FiliadoTest" time="0.066" tests="12" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -19,7 +19,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-1.8\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\will6\AppData\Local\Temp\surefire3884036472853917568\surefirebooter5115970905415092851.jar C:\Users\will6\AppData\Local\Temp\surefire3884036472853917568 2024-12-02T15-26-12_345-jvmRun1 surefire6974060771291634292tmp surefire_05080438210813717458tmp"/>
+    <property name="sun.java.command" value="C:\Users\will6\AppData\Local\Temp\surefire1326046675450541865\surefirebooter9011539457244120259.jar C:\Users\will6\AppData\Local\Temp\surefire1326046675450541865 2024-12-02T16-45-05_035-jvmRun1 surefire8051067524289247269tmp surefire_05070419623318964733tmp"/>
     <property name="test" value="FiliadoTest"/>
     <property name="surefire.test.class.path" value="C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\target\test-classes;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\target\classes;C:\Users\will6\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\will6\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\db4o-7.4.106.13438-java5.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\forms.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\jcalendar-1.3.3.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\PgsLookAndFeel.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\TableLayout.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\TableLayout-javadoc.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\TableLayout-src.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-annotation-jdk5-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-client-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-client-swing-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-shared-annotated-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\commons\commons-beanutils-1.7.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\commons\commons-logging-1.1.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\commons\reusable-components-20060810.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\backport175\backport175-1.1.RC1-snapshot.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\will6\AppData\Local\Temp\surefire3884036472853917568\surefirebooter5115970905415092851.jar;C:\\Users\\will6\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.8.7\\org.jacoco.agent-0.8.7-runtime.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\will6\AppData\Local\Temp\surefire1326046675450541865\surefirebooter9011539457244120259.jar;C:\\Users\\will6\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.8.7\\org.jacoco.agent-0.8.7-runtime.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk-1.8\jre\lib\resources.jar;C:\Program Files\Java\jdk-1.8\jre\lib\rt.jar;C:\Program Files\Java\jdk-1.8\jre\lib\jsse.jar;C:\Program Files\Java\jdk-1.8\jre\lib\jce.jar;C:\Program Files\Java\jdk-1.8\jre\lib\charsets.jar;C:\Program Files\Java\jdk-1.8\jre\lib\jfr.jar;C:\Program Files\Java\jdk-1.8\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -63,13 +63,16 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="testGetSetNome" classname="main.java.org.fpij.jitakyoei.model.beans.FiliadoTest" time="0.008"/>
-  <testcase name="testToString" classname="main.java.org.fpij.jitakyoei.model.beans.FiliadoTest" time="0.002"/>
-  <testcase name="testAddFaixa" classname="main.java.org.fpij.jitakyoei.model.beans.FiliadoTest" time="0.002"/>
-  <testcase name="testSetGetEndereco" classname="main.java.org.fpij.jitakyoei.model.beans.FiliadoTest" time="0"/>
-  <testcase name="testHashCode" classname="main.java.org.fpij.jitakyoei.model.beans.FiliadoTest" time="0"/>
-  <testcase name="testEquals" classname="main.java.org.fpij.jitakyoei.model.beans.FiliadoTest" time="0"/>
-  <testcase name="testGetSetCpf" classname="main.java.org.fpij.jitakyoei.model.beans.FiliadoTest" time="0"/>
-  <testcase name="testCopyProperties" classname="main.java.org.fpij.jitakyoei.model.beans.FiliadoTest" time="0"/>
-  <testcase name="testSetGetRg" classname="main.java.org.fpij.jitakyoei.model.beans.FiliadoTest" time="0.001"/>
+  <testcase name="testEquals_DifferentClass" classname="test.java.Model.FiliadoTest" time="0.007"/>
+  <testcase name="testGetSetRg" classname="test.java.Model.FiliadoTest" time="0"/>
+  <testcase name="testEquals_DifferentObjectSameValues" classname="test.java.Model.FiliadoTest" time="0"/>
+  <testcase name="testEquals_NullObject" classname="test.java.Model.FiliadoTest" time="0"/>
+  <testcase name="testToString" classname="test.java.Model.FiliadoTest" time="0"/>
+  <testcase name="testAddFaixa" classname="test.java.Model.FiliadoTest" time="0.002"/>
+  <testcase name="testEquals_SameObject" classname="test.java.Model.FiliadoTest" time="0"/>
+  <testcase name="testSetGetObservacoes" classname="test.java.Model.FiliadoTest" time="0"/>
+  <testcase name="testEquals_DifferentValues" classname="test.java.Model.FiliadoTest" time="0"/>
+  <testcase name="testHashCode" classname="test.java.Model.FiliadoTest" time="0"/>
+  <testcase name="testGetSetEndereco" classname="test.java.Model.FiliadoTest" time="0"/>
+  <testcase name="testCopyProperties" classname="test.java.Model.FiliadoTest" time="0"/>
 </testsuite>
