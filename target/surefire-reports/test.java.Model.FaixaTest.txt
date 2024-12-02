@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: test.java.Model.FaixaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in test.java.Model.FaixaTest
+test.java.Model.FaixaTest.TesteCriarFaixa  Time elapsed: 0 s  <<< FAILURE!
+java.lang.AssertionError: expected: main.java.org.fpij.jitakyoei.util.CorFaixa<Branca> but was: java.lang.String<Branca>
+	at test.java.Model.FaixaTest.TesteCriarFaixa(FaixaTest.java:20)
+

@@ -1,0 +1,8 @@
+test\java\Model\RgTest.class
+main\java\org\fpij\jitakyoei\model\dao\AlunoDaoTest.class
+main\java\org\fpij\jitakyoei\model\ModelIntegrationTests.class
+test\java\Model\ProfessorTest.class
+test\java\Model\EntidadeTest.class
+test\java\Model\FaixaTest.class
+test\java\Model\EnderecoTest.class
+test\java\org\fpij\jitakyoei\util\CorFaixaTest.class
