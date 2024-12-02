@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="main.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest" time="0.359" tests="4" errors="1" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="MS932"/>
+    <property name="java.class.path" value="C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\target\test-classes;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\target\classes;C:\Users\will6\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\will6\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\db4o-7.4.106.13438-java5.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\forms.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\jcalendar-1.3.3.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\PgsLookAndFeel.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\TableLayout.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\TableLayout-javadoc.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\TableLayout-src.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-annotation-jdk5-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-client-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-client-swing-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-shared-annotated-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\commons\commons-beanutils-1.7.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\commons\commons-logging-1.1.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\commons\reusable-components-20060810.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\backport175\backport175-1.1.RC1-snapshot.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/Sao_Paulo"/>
+    <property name="user.country.format" value="001"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-1.8\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\will6\AppData\Local\Temp\surefire7117179246843321105\surefirebooter5255327554636541873.jar C:\Users\will6\AppData\Local\Temp\surefire7117179246843321105 2024-12-02T15-26-02_243-jvmRun1 surefire8078408460577197409tmp surefire_0484102424181942668tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\target\test-classes;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\target\classes;C:\Users\will6\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\will6\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\db4o-7.4.106.13438-java5.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\forms.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\jcalendar-1.3.3.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\PgsLookAndFeel.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\TableLayout.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\TableLayout-javadoc.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\TableLayout-src.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-annotation-jdk5-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-client-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-client-swing-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\dist\genesis-shared-annotated-3.2.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\commons\commons-beanutils-1.7.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\commons\commons-logging-1.1.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\commons\reusable-components-20060810.jar;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas\lib\genesis\lib\backport175\backport175-1.1.RC1-snapshot.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\will6"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-1.8\jre"/>
+    <property name="basedir" value="C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\will6\AppData\Local\Temp\surefire7117179246843321105\surefirebooter5255327554636541873.jar;C:\\Users\\will6\\.m2\\repository\\org\\jacoco\\org.jacoco.agent\\0.8.7\\org.jacoco.agent-0.8.7-runtime.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk-1.8\jre\lib\resources.jar;C:\Program Files\Java\jdk-1.8\jre\lib\rt.jar;C:\Program Files\Java\jdk-1.8\jre\lib\jsse.jar;C:\Program Files\Java\jdk-1.8\jre\lib\jce.jar;C:\Program Files\Java\jdk-1.8\jre\lib\charsets.jar;C:\Program Files\Java\jdk-1.8\jre\lib\jfr.jar;C:\Program Files\Java\jdk-1.8\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_421-b09"/>
+    <property name="user.name" value="will6"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk-1.8\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="MS932"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\will6\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\will6\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_421"/>
+    <property name="user.dir" value="C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\Projeto\Sistema-de-Judocas"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-1.8\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\will6\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\will6\AppData\Local\Programs\Python\Python310\;C:\Program Files\Java\jdk-1.8\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Oculus\Support\oculus-runtime;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\dotnet\;C:\ProgramData\chocolatey\bin;C:\Users\will6\Downloads\btcs\saves;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\will6\AppData\Local\Programs\Python\Python310\python.exe;C:\Program Files\Git\cmd;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\will6\Downloads\FEI\Fei 8 semestre\Simulacao e teste de software\apache-maven-3.9.9\bin;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Users\will6\AppData\Local\Microsoft\WindowsApps;C:\Users\will6\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\will6\.dotnet\tools;C:\Users\will6\AppData\Local\GitHubDesktop\bin;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.421-b09"/>
+    <property name="java.specification.maintenance.version" value="5"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk-1.8\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testSearchAluno" classname="main.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest" time="0.082">
+    <system-out><![CDATA[DAOImpl.save()
+Nome: Aécio
+RegistroCbj: null
+DataNasc: Mon Dec 02 15:26:03 BRT 2024
+E-mail: null
+CPF: 036.464.453-27
+]]></system-out>
+  </testcase>
+  <testcase name="testSalvarAlunoComAssociassoes" classname="main.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest" time="0.004">
+    <system-out><![CDATA[DAOImpl.save()
+Nome: Aécio
+RegistroCbj: null
+DataNasc: Mon Dec 02 15:26:03 BRT 2024
+E-mail: null
+CPF: 036.464.453-27
+]]></system-out>
+  </testcase>
+  <testcase name="updateAluno" classname="main.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest" time="0.009">
+    <system-out><![CDATA[DAOImpl.save()
+Nome: Aécio
+RegistroCbj: null
+DataNasc: Mon Dec 02 15:26:03 BRT 2024
+E-mail: null
+CPF: 036.464.453-27
+DAOImpl.save()
+Nome: TesteUpdate
+RegistroCbj: null
+DataNasc: Mon Dec 02 15:26:03 BRT 2024
+E-mail: null
+CPF: 036.464.453-27
+]]></system-out>
+  </testcase>
+  <testcase name="testListarEAdicionarAlunos" classname="main.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest" time="0.006">
+    <error type="java.lang.NullPointerException"><![CDATA[java.lang.NullPointerException
+	at main.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest.testListarEAdicionarAlunos(AlunoDaoTest.java:113)
+]]></error>
+    <system-out><![CDATA[DAOImpl.save()
+]]></system-out>
+  </testcase>
+</testsuite>
