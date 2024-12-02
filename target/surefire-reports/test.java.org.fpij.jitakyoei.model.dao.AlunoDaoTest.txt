@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: test.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.337 s <<< FAILURE! - in test.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest
-test.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest.testListarEAdicionarAlunos  Time elapsed: 0 s  <<< ERROR!
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.35 s <<< FAILURE! - in test.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest
+test.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest.testListarEAdicionarAlunos  Time elapsed: 0.001 s  <<< ERROR!
 java.lang.NullPointerException
 	at test.java.org.fpij.jitakyoei.model.dao.AlunoDaoTest.testListarEAdicionarAlunos(AlunoDaoTest.java:113)
 
