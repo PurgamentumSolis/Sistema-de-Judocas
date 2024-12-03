@@ -99,6 +99,9 @@ public class ProfessorTest {
     public void TesteFunçãoEquals(){
         Professor professor = new Professor();  
         assertEquals(professor.equals(professor), true);
+
+        Professor professor2 = new Professor();  
+        assertEquals(professor.equals(professor2), false);
     }
 
 }
