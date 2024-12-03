@@ -1,5 +1,7 @@
 test\java\Model\RgTest.class
 main\java\org\fpij\jitakyoei\model\dao\AlunoDaoTest.class
+test\java\org\fpij\jitakyoei\util\DatabaseManagerTest.class
+test\java\org\fpij\jitakyoei\util\FiliadoTest.class
 main\java\org\fpij\jitakyoei\model\ModelIntegrationTests.class
 test\java\Model\ProfessorTest.class
 test\java\Model\EntidadeTest.class
